@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lucas Alves
+- 👋 Hi, I’m @LucasAlves
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:lucasalves.biel6@gmail.com
 
